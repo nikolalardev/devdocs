@@ -63,6 +63,7 @@
     - [Security features in Magento 2](/docs/{{version}}/security-features-in-magento-2)
     - [Best practices for secure development](/docs/{{version}}/best-practices-for-secure-development)
     - [Reporting security issues](/docs/{{version}}/reporting-security-issues)
+    - [Encryption key management](/docs/{{version}}/encryption-key-management)
 - ## Performance & Scalability
     - [Performance best practices](/docs/{{version}}/performance-best-practices)
     - [Scalability options](/docs/{{version}}/scalability-options-and-recommendations)
